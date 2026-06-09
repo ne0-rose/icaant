@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(255, 230, 235);
+}
+.oldal{
+    display:flex;
+    justify-content: center;
+    color:rgb(230, 127, 176);
+}
+.cim{
+    border-style: solid;
+    justify-content: center;
+    background-color:rgb(230, 127, 176);
+    border-color:rgb(230, 127, 176);
+    margin-right: 200px;
+    margin-left: 200px;
+    color: white;
+
+}
+.elso{
+    display:flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin-left: 200px;
+}
+.masodik{
+    display:flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+h1{
+    justify-content: center ;
+    display: flex;
+    color:rgb(209, 67, 135);
+}
+.hir{
+    color:rgb(230, 127, 176);
+}
+.idkatp{
+    display:flex;
+    align-items:flex-start;
+    margin-left:200px;
+    margin-right: 200px;
+}
